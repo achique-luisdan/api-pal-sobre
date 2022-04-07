@@ -4,9 +4,9 @@
 
 ## Descripción (Description) 📋
 
-API Rest Pal'Sobre, permite registrar los gastos y metas economicas.
+API Rest Pal'Sobre ✉️ permite registrar los gastos y metas economicas 💰
 
-Uno de los objetivos de este proyecto es servir de Backend para las prácticas del ***1er Taller de Java para QA.***
+Uno de los objetivos de este proyecto es servir de Backend para las prácticas del ***1er Taller de Java para QA.💻***
 
 ## Características (Features) ❤️
 
